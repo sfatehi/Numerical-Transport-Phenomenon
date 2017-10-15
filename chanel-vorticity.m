@@ -1,7 +1,7 @@
 % chanel.m: Solves the unsteady driven cavity problem using the
 %         streamfunction-vorticity based algorithm described in
 %         Pozrikidis "Introduction to Theoretical and Computational
-%         Fluid Dynamics" 2nd Edition
+%         Fluid Dynamics" Second Edition
 %
 % Author: Soheil Fatehiboroujeni
 %         Mechancial Engineering
