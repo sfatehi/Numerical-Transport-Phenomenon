@@ -1,7 +1,7 @@
 """This program solves the incompressible Navier-Stokes equations
 on 2D rectangular domain (2D channel) using Chorin's splitting method.
 
-Developed by sfatehiboroujeni@ucmerced.edu
+Developed by sfatehiboroujeni@ucmerced.edu , Fall 2017
 """
 
 # Begin demo
